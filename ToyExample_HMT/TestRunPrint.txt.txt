@@ -1,0 +1,31 @@
+(base) E:\DaYan\ToyExampleKDD18>KDD1d.exe config.txt
+Input parameters:
+Epsilon: 0.0001 Pi: 0.4
+Data prepare
+time: 0.002
+
+Tree generation
+time: 0
+
+
+Iterate: 0  Time: 0.001
+Epsilon: 0.444458  Pi: 0.2
+Mu0 19.5
+Mu1 10.3183
+Sigma0 8.06678
+Sigma1 13.1525
+
+Iterate: 1  Time: 0.004
+Epsilon: 0.454213  Pi: 0.198073
+Mu0 19.4725
+Mu1 10.336
+Sigma0 8.29112
+Sigma1 13.3308
+
+Iterate: 2  Time: 0.007
+Epsilon: 0.455457  Pi: 0.198052
+Mu0 19.4673
+Mu1 10.3361
+Sigma0 8.33152
+Sigma1 13.3444
+(base) E:\DaYan\ToyExampleKDD18>

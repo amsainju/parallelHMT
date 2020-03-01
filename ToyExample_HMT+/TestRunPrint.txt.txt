@@ -1,0 +1,45 @@
+(base) E:\DaYan\ToyExampleTKDE>TKDE1d.exe config.txt
+Input parameters:
+Epsilon: 0.0001 Pi: 0.4 M: 0.3
+Data prepare
+time: 0.02
+
+Tree generation
+time: 0
+
+
+Iterate: 0  Time: 0.001
+Epsilon: 0.219953  Pi: 0.0362158  M: 0.569169
+Mu0 20.1791
+Mu1 9.2262
+Sigma0 3.05415
+Sigma1 1.62419
+
+Iterate: 1  Time: 0.004
+Epsilon: 0.223403  Pi: 0.0113789  M: 0.583714
+Mu0 20.2607
+Mu1 9.22321
+Sigma0 2.22336
+Sigma1 1.51516
+
+Iterate: 2  Time: 0.008
+Epsilon: 0.216532  Pi: 4.40544e-005  M: 0.594607
+Mu0 20.2998
+Mu1 9.22726
+Sigma0 1.8282
+Sigma1 1.50361
+
+Iterate: 3  Time: 0.028
+Epsilon: 0.215891  Pi: 4.35374e-005  M: 0.594818
+Mu0 20.2999
+Mu1 9.22726
+Sigma0 1.82818
+Sigma1 1.50361
+
+Iterate: 4  Time: 0.031
+Epsilon: 0.215846  Pi: 4.33532e-005  M: 0.594833
+Mu0 20.2999
+Mu1 9.22726
+Sigma0 1.82817
+Sigma1 1.50361
+(base) E:\DaYan\ToyExampleTKDE>
